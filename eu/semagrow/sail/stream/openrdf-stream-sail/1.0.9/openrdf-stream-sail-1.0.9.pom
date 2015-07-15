@@ -4,7 +4,7 @@
 
     <groupId>eu.semagrow.sail.stream</groupId>
     <artifactId>openrdf-stream-sail</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.9</version>
     <packaging>jar</packaging>
 
     <name>openrdf-stream-sail</name>
