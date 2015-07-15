@@ -1,0 +1,4 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Thu Dec 18 13:31:12 CET 2014
+openrdf-stream-sail-1.0.9.jar>=
+openrdf-stream-sail-1.0.9.pom>=
